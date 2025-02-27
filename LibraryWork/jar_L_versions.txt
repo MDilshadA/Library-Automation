@@ -1,0 +1,16 @@
+commons-codec.jar | commons-codec | commons-codec -> Latest: 1.18.0
+commons-collections4-4.4.jar | org.apache.commons | commons-collections4 -> Latest: 4.5.0-M3
+commons-compress-1.23.0.jar | org.apache.commons | commons-compress -> Latest: 1.27.1
+commons-compress.jar | org.apache.commons | commons-compress -> Latest: 1.27.1
+commons-io.jar | commons-io | commons-io -> Latest: 2.18.0
+commons-lang3.jar | org.apache.commons | commons-lang3 -> Latest: 3.17.0
+gson-2.10.1.jar | com.google.code.gson | gson -> Latest: 2.12.1
+jackson-core.jar | com.fasterxml.jackson.core | jackson-core -> Latest: 2.18.2
+jackson-databind.jar | com.fasterxml.jackson.core | jackson-databind -> Latest: 2.18.2
+jackson-dataformat-cbor.jar | com.fasterxml.jackson.dataformat | jackson-dataformat-cbor -> Latest: 2.18.2
+jackson-dataformat-yaml.jar | com.fasterxml.jackson.dataformat | jackson-dataformat-yaml -> Latest: 2.18.2
+jackson-jakarta-rs-base.jar | com.fasterxml.jackson.jakarta.rs | jackson-jakarta-rs-base -> Latest: 2.18.2
+jackson-jakarta-rs-json-provider.jar | com.fasterxml.jackson.jakarta.rs | jackson-jakarta-rs-json-provider -> Latest: 2.18.2
+jackson-jaxrs-base.jar | com.fasterxml.jackson.jaxrs | jackson-jaxrs-base -> Latest: 2.18.2
+jackson-jaxrs-json-provider.jar | com.fasterxml.jackson.jaxrs | jackson-jaxrs-json-provider -> Latest: 2.18.2
+log4j-core.jar | org.apache.logging.log4j | log4j-core -> Latest: 2.24.3
